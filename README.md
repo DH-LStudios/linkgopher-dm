@@ -1,6 +1,4 @@
-## After having a large number of people find me privately, and express their displeasure in my dark/light layout design... With far too many taking it too an extreme I had never expected, I will no longer be working on this project. Of course I will leave the repo here if anyone does like the ability to switch between a dark and light layouts that format the links in a practical manner, and if that's you then please feel free to grab the files and use them. If you aren't one of these people here is the link to the original repo that links to official Chrome and FF add-ons.
-
-https://github.com/az0/linkgopher
+## https://github.com/az0/linkgopher
 
 # Link Gopher (New Dark Layout 9/21/2023)
 ##2023 Complete Dark/Light Layout Design with Toggle by Drew Hester##
